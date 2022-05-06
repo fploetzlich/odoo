@@ -13,5 +13,5 @@ Robert Duckstein robert.duckstein@manatec.de https://github.com/rd-manatec
 List of contributors:
 
 Tobias Reinwarth mailtobyte@googlemail.com https://github.com/tobytes
-
 Tom Tietze tietze.development@web.de https://github.com/TomTietze
+Philipp Köhler bandsache@gmx.net https://github.com/fploetzlich
